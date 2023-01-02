@@ -58,7 +58,6 @@ At this time, I'm just having fun, gatting knowledgde and practing the programmi
     
 </div>
   
-  ### Contato via / Contact me:
   <a href="https://www.linkedin.com/in/ivan-douglas-ramos-da-silva-13850722b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/iv_douglas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5551999218525" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
