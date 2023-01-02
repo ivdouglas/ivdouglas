@@ -4,14 +4,14 @@ Tenho 19 anos e atualmenmte resido, estudo e trabalho na região de metropolitan
 do Instituto Ivoti e realizo meus estudos na liguagem Python🐍 através da escola vitual Alura. Onde desejo seguir como desenvolvedor web e mobile, além de unir
 meus conhecimentos da educação superior, que imagino ser mais um diferencial na hora de conseguir um emprego na área de tecnologia.
 
-No momento, estou apenas adquirindo conhecimentos e praticando a linguagem, mas adoraria receber uma oportunidade, o quanto antes, de vivenciar esses conhecimentos
-na prática e aprimorar ainda mais todas as minhas habilidades na linguagem de programação e da mesma forma aumentar essa paixão que a linguagem Python desperta a todos
-os seus entusiastas que por livre escolha decidem preticá-la. 
+No momento, estou apenas adquirindo conhecimentos e praticando a linguagem, mas adoraria receber uma oportunidade, o quanto antes, de vivenciar esses
+conhecimentos na prática e aprimorar ainda mais todas as minhas habilidades na linguagem de programação e da mesma forma aumentar essa paixão que a linguagem
+Python desperta a todos os seus entusiastas que por livre escolha decidem preticá-la. 
 
 <div align="center">
   <a href="https://github.com/ivdouglas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivdouglas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivdouglas&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ivdouglas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivdouglas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
