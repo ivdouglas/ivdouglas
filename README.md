@@ -40,17 +40,17 @@ At this time, I'm just having fun, gatting knowledgde and practing the programmi
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivdouglas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-### Estudando no momento: / Currently studying:
-<div style="display"><br>
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <div align="center">
+   <div style="display"><br>
+      <img align="center" alt="Ivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Ivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Ivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
   
 ##
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ivdouglas&bg_color=1a1919&color=5f78ab&line=5f78ab&point=3acf8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ivdouglas&bg_color=1a1919&color=5f78ab&line=5f78ab&point=3acf8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ##
   
