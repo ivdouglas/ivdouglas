@@ -50,10 +50,6 @@ At this time, I'm just having fun, gatting knowledgde and practing the programmi
   
 ##
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ivdouglas&bg_color=1a1919&color=5f78ab&line=5f78ab&point=3acf8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-##
-  
   <div>  
     
   ![Snake animation](https://github.com/ivdouglas/ivdouglas/blob/output/github-contribution-grid-snake.svg)
