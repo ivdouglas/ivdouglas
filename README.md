@@ -10,13 +10,12 @@
 <h6>(Versão em português)</h6>
 <h1>Olá, me chamo Ivan.</h1>
 
-📍 - 19 anos - Ivoti, Rio Grande do Sul/RS, Brasil;
+ 22 anos - Ivoti, Rio Grande do Sul/RS, Brasil;
 
-👨🏼‍🎓 - Estudante de Letras português e alemão no esnino superior do Instituto Ivoti/RS;
+ Estudante de Letras português e alemão no esnino superior do Instituto Ivoti/RS;
 
-👨🏽‍💻 - Programação na escola digital Alura:
-   - Frontend nas linguagens HTML, CSS e JavaScript. - Onde desejo seguir como desenvolvedor web e mobile. 
-   - Backend em JavaScript e Python🐍
+ Programação na escola digital Alura:
+   - Dart, JSON, Flutter;
  
  No momento, estou apenas adquirindo conhecimentos e praticando as linguagens, mas adoraria receber uma oportunidade, o quanto antes, de vivenciar esses conhecimentos na prática e aprimorar ainda mais todas as minhas habilidades de programador e da mesma forma, aumentar ainda mais essa paixão que o mundo da programação desperta a todos os seus entusiastas.
  
@@ -25,13 +24,12 @@
 <h6>(English version)</h6>
 <h1>Hi, my name's Ivan.</h1>
 
-📍 - 19 years old - Ivoti, Rio Grande do Sul/RS, Brazil;
+22 years old - Ivoti, Rio Grande do Sul/RS, Brazil;
 
-👨🏼‍🎓 - Student of bachelor's Degree in Portuguese and German at University Instituto Ivoti/RS, Brazil;
+Student of bachelor's Degree in Portuguese and German at University Instituto Ivoti/RS, Brazil;
 
-👨🏽‍💻 - Programation at online-school Alura:
-   - Frontend: HTML, CSS and JavaScript - Here, I want to follow as a web and mobile developer. 
-   - Backend: JavaScript and Python🐍
+Programation at online-school Alura:
+   - Dart, JSON, Flutter;
  
 At this time, I'm just having fun, gatting knowledgde and practing the programming lenguages. But, I'd like to recive an oportunity, faster as possible, to experience in prectice all of what I'm studying now and improve my habilitis as a programer. At the same time, increases my passion for this world of programming. 
 
