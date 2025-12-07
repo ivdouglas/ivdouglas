@@ -15,7 +15,9 @@
  Estudante de Letras português e alemão no esnino superior do Instituto Ivoti/RS;
 
  Programação na escola digital Alura:
-   - Dart, JSON, Flutter;
+   - Dart, Flutter;
+   - JavaScript;
+   - HTML, CSS;
  
  No momento, estou apenas adquirindo conhecimentos e praticando as linguagens, mas adoraria receber uma oportunidade, o quanto antes, de vivenciar esses conhecimentos na prática e aprimorar ainda mais todas as minhas habilidades de programador e da mesma forma, aumentar ainda mais essa paixão que o mundo da programação desperta a todos os seus entusiastas.
  
@@ -29,7 +31,9 @@
 Student of bachelor's Degree in Portuguese and German at University Instituto Ivoti/RS, Brazil;
 
 Programation at online-school Alura:
-   - Dart, JSON, Flutter;
+   - Dart, Flutter;
+   - JavaScript;
+   - HTML, CSS;
  
 At this time, I'm just having fun, gatting knowledgde and practing the programming lenguages. But, I'd like to recive an oportunity, faster as possible, to experience in prectice all of what I'm studying now and improve my habilitis as a programer. At the same time, increases my passion for this world of programming. 
 
@@ -51,10 +55,6 @@ At this time, I'm just having fun, gatting knowledgde and practing the programmi
 ##
   
   <div>  
-    
-  ![Snake animation](https://github.com/ivdouglas/ivdouglas/blob/output/github-contribution-grid-snake.svg)
-    
-</div>
   
   <a href="https://www.linkedin.com/in/ivan-douglas-ramos-da-silva-13850722b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/iv_douglas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
