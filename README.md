@@ -16,7 +16,7 @@
 
 Sou **professor de alemão** e atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Feevale. Também sou graduando em **Letras — Português e Alemão** pelo Instituto Ivoti.  
 
-Falo **alemão**, **inglês** e **português**.
+Falo **português**, **alemão** e **inglês**.
 
 Atualmente, estou ampliando meus conhecimentos em programação e desenvolvendo projetos pessoais que me permitem consolidar conceitos fundamentais e boas práticas. Busco oportunidades para aplicar esses conhecimentos em ambientes profissionais, contribuindo com dedicação, organização e constante aprendizado.
 
@@ -34,7 +34,7 @@ Atualmente, estou ampliando meus conhecimentos em programação e desenvolvendo 
 
 I am a **German teacher** and currently studying **Systems Analysis and Development** at Feevale University. I also study **Portuguese and German Language and Literature** at Instituto Ivoti.  
 
-I speak **German**, **English**, and **Portuguese**.
+I speak **Portuguese**, **German** and **English**.
 
 I am expanding my knowledge in programming and building personal projects focused on learning, structure, and clean code. I am looking for opportunities to apply these skills in real work environments and further develop my abilities as a developer.
 
@@ -52,7 +52,7 @@ I am expanding my knowledge in programming and building personal projects focuse
 
 Ich bin **Deutschlehrer** und studiere derzeit **Systemanalyse und -entwicklung** an der Feevale Universität. Außerdem studiere ich **Portugiesische und Deutsche Literatur und Sprachwissenschaft** am Instituto Ivoti.  
 
-Ich spreche **Deutsch**, **Englisch** und **Portugiesisch**.
+Ich spreche **Portugiesisch**, **Deutsch** und **Englisch**.
 
 Derzeit erweitere ich meine Kenntnisse in der Programmierung und entwickle eigene Projekte, die mir helfen, gute Praktiken und solide Grundlagen aufzubauen. Ich suche Möglichkeiten, dieses Wissen in einem professionellen Umfeld anzuwenden und meine Fähigkeiten als Entwickler weiterzuentwickeln.
 
