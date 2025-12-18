@@ -5,28 +5,48 @@
 <a href="https://wa.me/5551999218525" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:ivdouglas.silva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
 ---
+
 <h6>(Versão em português)</h6>
 <h1>Olá, me chamo Ivan.</h1>
+
 22 anos — Ivoti, Rio Grande do Sul/RS, Brasil.
+
 Sou **professor de alemão** e atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Feevale. Também sou graduando em **Letras — Português e Alemão** pelo Instituto Ivoti.  
+
 Falo **português**, **alemão** e **inglês**.
+
 Atualmente, estou ampliando meus conhecimentos em programação e desenvolvendo projetos pessoais que me permitem consolidar conceitos fundamentais e boas práticas. Busco oportunidades para aplicar esses conhecimentos em ambientes profissionais, contribuindo com dedicação, organização e constante aprendizado.
+
 ---
+
 <h6>(English version)</h6>
 <h1>Hi, my name's Ivan.</h1>
+
 22 years old — Ivoti, Rio Grande do Sul/RS, Brazil.
+
 I am a **German teacher** and currently studying **Systems Analysis and Development** at Feevale University. I also study **Portuguese and German Language and Literature** at Instituto Ivoti.  
+
 I speak **Portuguese**, **German** and **English**.
+
 I am expanding my knowledge in programming and building personal projects focused on learning, structure, and clean code. I am looking for opportunities to apply these skills in real work environments and further develop my abilities as a developer.
+
 ---
+
 <h6>(Deutsche Version)</h6>
 <h1>Hallo, ich heiße Ivan.</h1>
+
 22 Jahre alt — Ivoti, Rio Grande do Sul/RS, Brasilien.
+
 Ich bin **Deutschlehrer** und studiere derzeit **Systemanalyse und -entwicklung** an der Feevale Universität. Außerdem studiere ich **Portugiesische und Deutsche Literatur und Sprachwissenschaft** am Instituto Ivoti.  
+
 Ich spreche **Portugiesisch**, **Deutsch** und **Englisch**.
+
 Derzeit erweitere ich meine Kenntnisse in der Programmierung und entwickle eigene Projekte, die mir helfen, gute Praktiken und solide Grundlagen aufzubauen. Ich suche Möglichkeiten, dieses Wissen in einem professionellen Umfeld anzuwenden und meine Fähigkeiten als Entwickler weiterzuentwickeln.
+
 ---
+
 <div align="center">
   <a href="https://github.com/ivsilvaa">
     <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ivsilvaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
