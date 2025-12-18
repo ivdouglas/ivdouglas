@@ -68,7 +68,7 @@ Zurzeit erweitere ich meine Programmierkenntnisse und entwickle eigene Projekte,
 <div align="center">
 
 ### 📊 Estatísticas e Linguagens
-<a href="https://github.com/ivdouglas">
+<a href="https://github.com/ivsilvaa">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivdouglas&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
 
