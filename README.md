@@ -67,23 +67,9 @@ Derzeit erweitere ich meine Kenntnisse in der Programmierung und entwickle eigen
 ---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/ivan-douglas-ramos-da-silva-13850722b" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-
-<a href="https://www.instagram.com/iv_douglas/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://wa.me/5551999218525" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-<a href="mailto:ivdouglas.silva@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+<a href="https://www.linkedin.com/in/ivan-douglas-ramos-da-silva-13850722b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/iv_douglas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://wa.me/5551999218525" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="mailto:ivdouglas.silva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=header"/>
