@@ -72,4 +72,4 @@ Derzeit erweitere ich meine Kenntnisse in der Programmierung und entwickle eigen
 <a href="https://wa.me/5551999218525" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:ivdouglas.silva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
