@@ -56,13 +56,10 @@ Derzeit erweitere ich meine Kenntnisse in der Programmierung und entwickle eigen
 
 
 <div align="center"><br>
-  <img align="center" alt="Ivan-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js,html,css,wasm">
-  <img align="center" alt="Ivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ivan-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Ivan-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ [![My Skills](https://skillicons.dev/icons?i=git,github,js,html,css,figma,dart,flutter)](https://skillicons.dev)
 </div>
 
+--- 
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ivan-douglas-ramos-da-silva-13850722b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
