@@ -58,8 +58,6 @@ Derzeit erweitere ich meine Kenntnisse in der Programmierung und entwickle eigen
 <div align="center"><br> 
 <img align="center" alt="Ivan-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
 <img align="center" alt="Ivan-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-<img align="center" alt="Ivan-next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-plain.svg"> 
-<img align="center" alt="Ivan-node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
 <img align="center" alt="Ivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 <img align="center" alt="Ivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
